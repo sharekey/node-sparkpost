@@ -1,5 +1,5 @@
 {
-  "name": "@sharekey/sparkpost",
+  "name": "sparkpost",
   "version": "2.1.5",
   "description": "A Node.js wrapper for interfacing with your favorite SparkPost APIs",
   "main": "./lib/sparkpost.js",
@@ -15,14 +15,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sharekey/node-sparkpost"
+    "url": "https://github.com/SparkPost/node-sparkpost"
   },
-  "author": "Sharekey <admin@sharekey.com>",
+  "author": "Message Systems, Inc.",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/sharekey/node-sparkpost/issues"
+    "url": "https://github.com/SparkPost/node-sparkpost/issues"
   },
-  "homepage": "https://github.com/sharekey/node-sparkpost",
+  "homepage": "https://github.com/SparkPost/node-sparkpost",
   "engines": {
     "node": ">=4"
   },
