@@ -15,14 +15,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SparkPost/node-sparkpost"
+    "url": "https://github.com/sharekey/node-sparkpost"
   },
-  "author": "Message Systems, Inc.",
+  "author": "Sharekey <admin@sharekey.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/SparkPost/node-sparkpost/issues"
+    "url": "https://github.com/sharekey/node-sparkpost/issues"
   },
-  "homepage": "https://github.com/SparkPost/node-sparkpost",
+  "homepage": "https://github.com/sharekey/node-sparkpost",
   "engines": {
     "node": ">=4"
   },
@@ -40,7 +40,7 @@
     "sinon-chai": "^2.8.0"
   },
   "dependencies": {
-    "lodash": "^4.17.2",
+    "lodash": "^4.17.21",
     "axios": "^1.4.0"
   }
 }
