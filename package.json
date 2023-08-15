@@ -1,6 +1,6 @@
 {
   "name": "sparkpost",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "A Node.js wrapper for interfacing with your favorite SparkPost APIs",
   "main": "./lib/sparkpost.js",
   "scripts": {
@@ -40,7 +40,7 @@
     "sinon-chai": "^2.8.0"
   },
   "dependencies": {
-    "lodash": "^4.17.2",
-    "request": "^2.79.0"
+    "lodash": "^4.17.21",
+    "axios": "^1.4.0"
   }
 }
