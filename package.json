@@ -40,7 +40,7 @@
     "sinon-chai": "^2.8.0"
   },
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "axios": "^1.11.0"
   }
 }
